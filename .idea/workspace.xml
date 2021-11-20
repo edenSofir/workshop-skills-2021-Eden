@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99b08ca6-5b99-493a-b15a-32892505c25d" name="Default Changelist" comment="commit b1-2" />
+    <list default="true" id="99b08ca6-5b99-493a-b15a-32892505c25d" name="Default Changelist" comment="commit b1-2">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637233421184</updated>
       <workItem from="1637233422565" duration="1240000" />
+      <workItem from="1637423485354" duration="371000" />
     </task>
     <task id="LOCAL‎00001" summary="commit m-1">
       <created>1637234223312</created>
@@ -71,6 +75,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit m-1" />
